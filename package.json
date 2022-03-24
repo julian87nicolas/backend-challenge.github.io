@@ -1,6 +1,6 @@
 {
-	"author": "Julián Camargo",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Julian-Camargo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
